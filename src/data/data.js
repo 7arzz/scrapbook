@@ -14,7 +14,7 @@ export const journalData = [
     id: 1,
     front: {
       template: "cover",
-      title: "Our Memories",
+      title: "For You\nFirlyana Anggita Dewi",
       className: "cover-main",
     },
     back: {
